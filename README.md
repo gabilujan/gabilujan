@@ -1,4 +1,4 @@
-Programação por dinheiro 
+Programação eu te odeio
 
 <div>
   <a href="https://beacons.ai/gabilujan">
