@@ -1,2 +1,1 @@
-Programação eu te odeio
 
