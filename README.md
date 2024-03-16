@@ -11,4 +11,3 @@ Repostiorios para atividades em aulas!
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allonsmandy&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
