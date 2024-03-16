@@ -1,5 +1,5 @@
 
-Repostiorios para atividades!
+Repositiorios para atividades!
 
 ---
 - Desenvolvimento de Sistemas
